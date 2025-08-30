@@ -43,7 +43,7 @@ const boardOfDirectors = [
   {
     name: "Sumeet Jadhav",
     role: "Executive Director, CEO & CFO",
-    image: "/team/sumeet.jpg",
+    image: "/team/sumeet.jpg", // Replace with actual image path
     bio: "Leading the company's vision, strategy, and financial operations.",
     linkedin: "https://www.linkedin.com/in/sumeet-jadhav-783a991ba/",
     email: "sumeet.jadhav@praseonix.com",
