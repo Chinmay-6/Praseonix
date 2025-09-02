@@ -20,7 +20,7 @@ const boardOfDirectors = [
   {
     name: "Sumeet Jadhav",
     role: "Executive Director, CEO & CFO",
-    image: "/team/sumeet.jpg", // Replace with actual image path
+    image: "/team/sumeet.png", // Replace with actual image path
     bio: "Leading the company's vision, strategy, and financial operations.",
     linkedin: "https://www.linkedin.com/in/sumeet-jadhav-783a991ba/",
     email: "sumeet.jadhav@praseonix.com",
@@ -75,6 +75,22 @@ const teamMembers = [
     bio: "A passionate developer contributing with fresh ideas.",
     linkedin: "https://www.linkedin.com/in/rushikesh-dhale-946b3a240/",
     email: "rushikesh.dhale@praseonix.com",
+  },
+  {
+    name: "Krushna Patil",
+    role: "Junior Developer",
+    image: "/team/krushna.jpg", // Replace with actual image path
+    bio: "Bringing energy and a sharp mind to our development team.",
+    linkedin: "#",
+    email: "krishna.patil@praseonix.com",
+  },
+  {
+    name: "Viraj Khopkar",
+    role: "Intern",
+    image: "/team/viraj.jpg", // Replace with actual image path
+    bio: "Learning and contributing to real-world projects with enthusiasm.",
+    linkedin: "#",
+    email: "viraj.khopkar@praseonix.com",
   },
 ]
 
